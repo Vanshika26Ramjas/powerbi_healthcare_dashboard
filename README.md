@@ -6,7 +6,7 @@ This repository showcases an end-to-end Power BI healthcare analytics project fo
 
 ---
 
-📌 ***Project Overview***
+📌 **Project Overview**
 
 This project involves:
 
