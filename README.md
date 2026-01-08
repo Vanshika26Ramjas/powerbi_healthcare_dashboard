@@ -119,14 +119,14 @@ No real personal or sensitive healthcare data is involved.
 
 ---
 
-#📜 **License**
+# 📜 **License**
 
 This project is licensed under the MIT License. You are free to use, modify, and share this project with proper attribution.
 
 
 ---
 
-#👩‍💻 **About Me**
+# 👩‍💻 **About Me**
 
 Hi! I’m Vanshika, a B.Sc. (Hons.) Statistics student with a strong interest in data analytics, Power BI, and data storytelling. I enjoy working on real-world datasets and building dashboards that turn data into meaningful insights.
 
