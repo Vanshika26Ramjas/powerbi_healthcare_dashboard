@@ -1,4 +1,4 @@
-Smoking & Healthcare Risk Analysis (Power BI)
+**Smoking & Healthcare Risk Analysis** (Power BI)
 
 Welcome to the Smoking & Healthcare Risk Analysis project 🚭📊.
 This repository showcases an end-to-end Power BI healthcare analytics project focused on understanding smoking behavior and its impact on key health risk factors. The project is designed as a portfolio project and emphasizes clean data modeling, meaningful insights, and clear visual storytelling.
@@ -6,7 +6,7 @@ This repository showcases an end-to-end Power BI healthcare analytics project fo
 
 ---
 
-📌 Project Overview
+📌 **Project Overview**
 
 This project involves:
 
@@ -26,7 +26,7 @@ This project involves:
 
 ---
 
-🎯 Objective
+🎯 **Objective**
 
 The main objective of this project is to:
 
@@ -42,7 +42,7 @@ Practice healthcare-focused data analytics with an emphasis on accuracy and clar
 
 ---
 
-📊 Key Insights Covered
+📊 **Key Insights Covered**
 
 Smoking status distribution (Never, Current, Former)
 
@@ -56,7 +56,7 @@ Comparative health outcomes between smokers and non-smokers
 
 ---
 
-🧱 Data Architecture
+🧱 **Data Architecture**
 
 This project follows a simple analytics workflow:
 
@@ -72,7 +72,7 @@ Final insights are delivered using Power BI dashboards
 
 ---
 
-🛠️ Tools & Technologies Used
+🛠️ **Tools & Technologies Used**
 
 Power BI Desktop – Dashboard development & visualization
 
@@ -99,7 +99,7 @@ GitHub – Version control and project documentation
 
 ---
 
-📸 Dashboard Preview
+📸 **Dashboard Preview**
 
 Dashboard screenshots can be found in the docs/ folder.
 
@@ -107,7 +107,7 @@ Dashboard screenshots can be found in the docs/ folder.
 
 ---
 
-📌 Notes
+📌 **Notes**
 
 This project is created for learning and portfolio purposes.
 
@@ -119,14 +119,14 @@ No real personal or sensitive healthcare data is involved.
 
 ---
 
-📜 License
+📜 **License**
 
 This project is licensed under the MIT License. You are free to use, modify, and share this project with proper attribution.
 
 
 ---
 
-👩‍💻 About Me
+👩‍💻 **About Me**
 
 Hi! I’m Vanshika, a B.Sc. (Hons.) Statistics student with a strong interest in data analytics, Power BI, and data storytelling. I enjoy working on real-world datasets and building dashboards that turn data into meaningful insights.
 
