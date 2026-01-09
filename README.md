@@ -10,16 +10,16 @@ This repository showcases an end-to-end Power BI healthcare analytics project fo
 
 This project involves:
 
-1. Healthcare Data Analysis – Exploring patient data with a focus on smoking status and associated health risks.
+1. **Healthcare Data Analysis** – Exploring patient data with a focus on smoking status and associated health risks.
 
 
-2. Data Preparation & Modeling – Cleaning, transforming, and modeling data to support analysis.
+2. **Data Preparation & Modeling** – Cleaning, transforming, and modeling data to support analysis.
 
 
-3. Dashboard Development – Building interactive Power BI dashboards for clear and actionable insights.
+3. **Dashboard Development** – Building interactive Power BI dashboards for clear and actionable insights.
 
 
-4. Analytics & Storytelling – Presenting insights in a simple, accurate, and easy-to-understand way.
+4. **Analytics & Storytelling** – Presenting insights in a simple, accurate, and easy-to-understand way.
 
 
 
